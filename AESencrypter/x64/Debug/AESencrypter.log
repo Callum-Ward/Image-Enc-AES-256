@@ -1,0 +1,7 @@
+﻿  AESencrypter.cpp
+C:\Users\callu\Desktop\OneDrive\My Programs\C++\AESencrypter\AESencrypter\AESencrypter.cpp(471,19): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\callu\Desktop\OneDrive\My Programs\C++\AESencrypter\AESencrypter\AESencrypter.cpp(484,17): warning C4244:  'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\callu\Desktop\OneDrive\My Programs\C++\AESencrypter\AESencrypter\AESencrypter.cpp(487,33): warning C4101:  'e': unreferenced local variable
+C:\Users\callu\Desktop\OneDrive\My Programs\C++\AESencrypter\AESencrypter\AESencrypter.cpp(518,33): warning C4101:  'e': unreferenced local variable
+C:\Users\callu\Desktop\OneDrive\My Programs\C++\AESencrypter\AESencrypter\AESencrypter.cpp(552,34): warning C4101:  'e': unreferenced local variable
+  AESencrypter.vcxproj -> C:\Users\callu\Desktop\OneDrive\My Programs\C++\AESencrypter\x64\Debug\AESencrypter.exe
