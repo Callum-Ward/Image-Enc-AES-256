@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-
 #include <string>
 #include <math.h>
 #include "sha256.h"
@@ -13,7 +12,7 @@ public:
 
 	AES256_CBC(std::string fileName, std::string newFileName, std::string password,bool encOrDec)
 	{
-		int fileSize ;
+		int fileSize;
 		const int rnds = 14;
 		fileSize = GetImageSize(fileName); //size of file needs to be known for import to be successful 
 		std::string pass = password;
@@ -762,9 +761,6 @@ private:
 		0xd7,0xd9,0xcb,0xc5,0xef,0xe1,0xf3,0xfd,0xa7,0xa9,0xbb,0xb5,0x9f,0x91,0x83,0x8d
 	};
 };
-
-
-
 
 int main()
 {
